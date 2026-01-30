@@ -1,0 +1,62 @@
+*{
+    margin : 0;
+    font-family: Arial;
+    border : border-box;
+}
+.login {
+  width: 100vw;         
+  height: 100vh;   
+  background-image: url("image.png");    
+  display : flex;
+  justify-content: center;
+  align-items : center;
+}
+.login2 {
+    background-color:  rgb(170, 224, 190);
+    padding : 35px;
+    width: 450px;
+    text-align : center;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+}
+.txt a {
+    color : blue;
+    text-size-adjust: 0.75rem;
+}
+.log {
+    background-color : rgb(82, 156, 82);
+    color : white;
+    margin-top: 20px;
+    height : 30px;
+    width : 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 30%;
+
+}
+.txt {
+    margin-bottom: 15px;
+}
+.pass {
+    background-color: rgb(80, 79, 79);
+    margin-top : 15px;
+    color :rgb(174, 174, 174);
+    width : 400px;
+    height : 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ds1 {
+    display : flex;
+    margin-bottom: 15px;;
+
+}
+.ds2 {
+    display : flex;
+
+}

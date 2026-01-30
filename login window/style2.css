@@ -1,0 +1,57 @@
+*{
+    margin : 0;
+    font-family: Arial;
+    border : border-box;
+}
+.su {
+  width: 100vw;         
+  height: 100vh;   
+  background-image: url("image.png");    
+  display : flex;
+  justify-content: center;
+  align-items : center;
+}
+.su2 {
+    background-color: rgb(170, 224, 190);
+    border-radius: 20%;
+    padding : 35px;
+    width: 450px;
+    text-align : center;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.txt {
+    text-size-adjust: 0.75rem;
+    margin-bottom: 15px;
+}
+.ds1 {
+    margin-bottom: 15px;
+}
+.ds2 {
+    margin-bottom: 15px;
+}
+.ds3 {
+    margin-bottom: 15px;
+}
+.ds4 {
+    margin-bottom: 15px;
+}
+.sign {
+   background-color: rgb(82, 156, 82);
+    margin-top: 15px;
+    height : 25px;
+      text-align : center;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sign a {
+    color :white;
+    text-decoration: none;
+}
+.log {
+    margin-top: 15px;
+}
